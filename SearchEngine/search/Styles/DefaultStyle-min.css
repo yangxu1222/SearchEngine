@@ -1,0 +1,273 @@
+.main_body {
+	overflow: auto;
+	margin: 0
+}
+
+.result_body {
+	overflow: auto;
+	margin-top: 0
+}
+
+.search_box_outer {
+	width: 500px;
+	height: 30px;
+	margin-top: 0;
+	vertical-align: top;
+	border-top-color: #9a9a9a;
+	border-right-color: #cdcdcd;
+	border-bottom-color: #cdcdcd;
+	border-left-color: #9a9a9a;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	display: inline-block
+}
+
+.search_box {
+	width: 500px;
+	height: 25px;
+	line-height: 24px;
+	font-family: arial;
+	font-size: 16px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	border: 0;
+	margin-top: 5px;
+	margin-right: 0;
+	margin-bottom: 0;
+	margin-left: 3px;
+	outline-style: none;
+	background: transparent
+}
+
+.search_btn {
+	width: 110px;
+	height: 34px;
+	margin-top: 0;
+	margin-left: 20px;
+	font-family: 微软雅黑;
+	font-size: 16px;
+	color: Blue
+}
+
+.copyright {
+	font-family: Arial;
+	font-size: 16px;
+	font-weight: bold;
+	font-style: normal;
+	font-variant: normal;
+	color: #c4c4c4
+}
+
+.divURL {
+	font-family: 新宋体, arial, sans-serif;
+	font-size: 16px;
+	font-weight: normal;
+	font-style: normal;
+	font-variant: normal;
+	color: Blue
+}
+
+#searchbar a {
+	color: White;
+	text-decoration: none
+}
+
+#searchbar a:hover {
+	color: White;
+	text-decoration: none
+}
+
+#navigatorbar {
+	font-family: Arial;
+	font-size: 18px;
+	font-weight: normal;
+	font-variant: normal;
+	font-style: normal;
+	padding-left: 255px;
+	padding-top: 22px;
+	Height: 20px
+}
+
+#navigatorbar a {
+	color: Blue;
+	text-decoration: none
+}
+
+#navigatorbar a:hover {
+	color: Red;
+	text-decoration: none
+}
+
+.hr_style {
+	background-color: #e0e0e0;
+	border: 0;
+	height: 1px
+}
+
+.top_tn_radio_text {
+	font-family: Arial;
+	font-size: 16px;
+	font-weight: normal;
+	font-variant: normal;
+	font-style: normal
+}
+
+a {
+	color: Blue
+}
+
+a:hover {
+	color: Red
+}
+
+.team a {
+	color: #c4c4c4;
+	text-decoration: none
+}
+
+.team a:hover {
+	color: Red;
+	text-decoration: none
+}
+
+.abstract_div {
+	margin-top: 3px;
+	font-family: 新宋体, arial, sans-serif;
+	font-size: 13px;
+	line-height: 19px;
+	font-weight: normal;
+	font-style: normal;
+	font-variant: normal;
+	color: Black;
+	word-break: break-all;
+	word-wrap: break-word;
+	text-align: left
+}
+
+.index_datetime_div {
+	font-family: arial, sans-serif;
+	font-size: 13px;
+	line-height: 19px;
+	font-weight: normal;
+	font-style: normal;
+	font-variant: normal;
+	color: #1d8e1d
+}
+
+.aboutus {
+	font-family: Courier New;
+	font-size: 20px;
+	font-weight: bold;
+	font-style: normal;
+	font-variant: normal;
+	color: #1d8e1d
+}
+
+.divInfo2user {
+	font-family: 微软雅黑;
+	font-size: 16px;
+	font-weight: normal;
+	font-style: normal;
+	font-variant: normal;
+	color: Black
+}
+
+.header-wrap {
+	left: 0;
+	width: 100%;
+	top: 0;
+	border-bottom-color: #e0e0e0;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	background-color: White;
+	line-height: 1.5;
+	font-family: 新宋体, arial, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	font-size-adjust: none;
+	font-stretch: normal
+}
+
+.footer-wrap {
+	left: 0;
+	width: 100%;
+	bottom: 0;
+	border-top-color: #eee;
+	border-top-width: 1px;
+	border-top-style: solid;
+	position: absolute;
+	background-color: #f5f5f5;
+	line-height: 1.5;
+	font-family: 新宋体, arial, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	font-size-adjust: none;
+	font-stretch: normal
+}
+
+.header-wrap #header {
+	height: 34px;
+	text-align: left;
+	color: #333;
+	line-height: 34px;
+	margin-top: 0;
+	margin-right: 10px;
+	margin-bottom: 0;
+	margin-left: 10px
+}
+
+.footer-wrap #footer {
+	height: 36px;
+	text-align: left;
+	color: #959595;
+	line-height: 36px;
+	margin-top: 0;
+	margin-right: 10px;
+	margin-bottom: 0;
+	margin-left: 10px
+}
+
+#header em {
+	font-family: arial, sans-serif;
+	color: #333;
+	float: right;
+	font-style: normal
+}
+
+#footer em {
+	font-family: arial, sans-serif;
+	color: #959595;
+	float: right;
+	font-style: normal
+}
+
+#header a {
+	color: #333;
+	text-decoration: none
+}
+
+#footer a {
+	color: #959595;
+	text-decoration: none
+}
+
+#header a:hover {
+	color: red;
+	text-decoration: none
+}
+
+#footer a:hover {
+	color: red;
+	text-decoration: none
+}
